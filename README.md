@@ -13,7 +13,5 @@ Requests: get, post, delete, put and patch
 ![image](https://github.com/DeveloperBedirhan/bookDemo/assets/77440477/f97ea795-dbe7-48b5-a28c-97913c6b84d3)
 ![image](https://github.com/DeveloperBedirhan/bookDemo/assets/77440477/152fd742-fe38-4ac5-98e8-6ad295cef261)
 ![image](https://github.com/DeveloperBedirhan/bookDemo/assets/77440477/44db8e52-1795-4caf-87bf-ef765936032c)
-![image](https://github.com/DeveloperBedirhan/bookDemo/assets/77440477/6fcabf74-a832-492a-8e90-c8495f00aea5)
 ![image](https://github.com/DeveloperBedirhan/bookDemo/assets/77440477/6446e3a7-645a-4207-b5f8-2d20c5e1a427)
 ![image](https://github.com/DeveloperBedirhan/bookDemo/assets/77440477/e04b93b2-a65e-465f-a3ad-4680d7a8dffa)
-![image](https://github.com/DeveloperBedirhan/bookDemo/assets/77440477/760f2e0d-896a-44a5-8192-00bbc5be38c3)
